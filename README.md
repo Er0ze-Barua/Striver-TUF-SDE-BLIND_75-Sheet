@@ -1,34 +1,27 @@
-# Striver-TUF-SDE-Sheet
+# TUF Striver + Blind 75 Sheet
 
-My solutions to the [Striver TUF SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) — working through it at my own pace.
-
----
+My solutions to the Striver SDE Sheet and Blind 75 problems, working through them at my own pace.
 
 ## Structure
 
 Each problem lives in its own folder under the relevant topic directory:
 
-```
+```text
 topic/
 └── problem-name/
-    ├── README.md        # Problem statement
-    ├── solution.cpp     # Code
-    └── approach.md      # My thought process & approach
+    ├── README.md              # Problem statement
+    ├── solution.cpp           # Code
+    └── solution-approach.md   # My approach & complexity
 ```
 
-Solutions are synced automatically via [LeetSync](https://github.com/LeetSync/LeetSync).
-
----
+Solutions are synced automatically via LeetSync.
 
 ## Stack
 
-- Language: **C++**
+Language: C++
 
----
+## About
 
-## About the Sheet
+This repository contains my solutions to problems from the Striver SDE Sheet and Blind 75.
 
-The Striver SDE Sheet is a curated list of ~180 handpicked problems covering the most important DSA topics for software engineering interviews — compiled by [Striver (Raj Vikramaditya)](https://takeuforward.org/).
----
-
-> Started late, but started. That's what counts.
+Started late, but started. That's what counts.
